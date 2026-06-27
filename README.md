@@ -42,7 +42,7 @@ copy .env.example .env
 Edit `.env`:
 
 ```env
-MCP_SERVER_URL=http://103.93.129.20:8000/mcp
+MCP_SERVER_URL=
 APP_NAME=Seraphim Digital Technology MCP
 APP_ENV=development
 DEFAULT_LIMIT=10
